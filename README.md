@@ -5,7 +5,7 @@ Computer Engineering Student | Robotics Software Developer
 </h3>
 
 <p align="center">
-Passionate about robotics, autonomous systems and embedded software.
+Passionate about robotics and autonomous systems.
 </p>
 
 ---
@@ -15,7 +15,7 @@ Passionate about robotics, autonomous systems and embedded software.
 - 🎓 Computer Engineering student at Gebze Technical University
 - 🤖 Software Team Member at GTU Rover Team
 - 🌱 Currently learning C++, ROS 2 and Linux
-- 🚀 Interested in Robotics, Autonomous Systems and Embedded Software
+- 🚀 Interested in Robotics and Autonomous Systems
 
 ---
 
